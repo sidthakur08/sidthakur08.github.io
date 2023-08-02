@@ -62,13 +62,14 @@ a{
     margin:0;
 }
 
+/*
 .section-2 a{
     display: block;
     padding: 5px;
     font-size: 1.2rem;
     padding-left: 0;
     width: 100px;
-}
+}*/
 .seo a{
     margin: 0;
     white-space: nowrap;
@@ -89,7 +90,7 @@ a{
 .section-1 a:hover{
     color: #fff;
     cursor: pointer;
-    transition: 0.3s;
+    transition: 0.2s;
 }
 
 .white:hover{
